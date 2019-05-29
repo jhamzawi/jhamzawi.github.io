@@ -1,0 +1,16 @@
+name: "Jordan Hamzawi"
+output_dir: "."
+navbar:
+  title: "Jordan Hamzawi"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/jhamzawi
+output:
+  html_document:

@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4276963028",
+    "hash" : "0",
     "id" : "1FBD03EA",
-    "lastKnownWriteTime" : 1559166005,
-    "last_content_update" : 1559166005698,
+    "lastKnownWriteTime" : 1559166460,
+    "last_content_update" : 1559166460203,
     "path" : "~/GitHub/jhamzawi.github.io/teaching.Rmd",
     "project_path" : "teaching.Rmd",
     "properties" : {
-        "cursorPosition" : "9,18",
+        "cursorPosition" : "1,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
