@@ -1,16 +1,16 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1559165776087.000,
+    "created" : 1559165805939.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "9E4A161C",
-    "lastKnownWriteTime" : 1559166440,
-    "last_content_update" : 1559166440206,
-    "path" : "~/GitHub/jhamzawi.github.io/research.Rmd",
-    "project_path" : "research.Rmd",
+    "hash" : "3182803093",
+    "id" : "1FBD03EA",
+    "lastKnownWriteTime" : 1559166460,
+    "last_content_update" : 1559166460203,
+    "path" : "~/GitHub/jhamzawi.github.io/teaching.Rmd",
+    "project_path" : "teaching.Rmd",
     "properties" : {
         "cursorPosition" : "1,0",
         "scrollLine" : "0",
@@ -19,7 +19,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
