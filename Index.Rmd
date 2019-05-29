@@ -1,12 +1,10 @@
 ---
+output: html_document
 ---
 
 <link rel="stylesheet" href="style.css" type="text/css”>
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Well lah-dee-dah.
 
 
 

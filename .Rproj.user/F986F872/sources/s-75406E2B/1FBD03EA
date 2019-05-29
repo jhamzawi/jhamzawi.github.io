@@ -5,10 +5,10 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1243929071",
     "id" : "1FBD03EA",
-    "lastKnownWriteTime" : 1559166460,
-    "last_content_update" : 1559166460203,
+    "lastKnownWriteTime" : 1559168230,
+    "last_content_update" : 1559168230808,
     "path" : "~/GitHub/jhamzawi.github.io/teaching.Rmd",
     "project_path" : "teaching.Rmd",
     "properties" : {
@@ -19,7 +19,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 4,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
